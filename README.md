@@ -1,7 +1,7 @@
 # Numerade-Scraper
 Extension to scrape answers from Numerade
 
-# Step 1:
+## Step 1:
 Download the zip file of the repository or click [here](https://github.com/wannasleepforlong/Numerade-Scraper/archive/refs/heads/main.zip)
 
 # Step 2:
