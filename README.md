@@ -3,7 +3,7 @@ Extension to scrape answers from Numerade
 
 This extension allows you to view and download answers from locked Numerade solutions. Just set up this extension and click it after opening the answer site and it will open the unlocked media in a new tab.
 
-You can follow this [video]([https://www.youtube.com/](https://www.youtube.com/watch?v=PSqcV5eT8FM)) or follow the steps below to install it on your device.
+You can follow this [video](https://www.youtube.com/watch?v=PSqcV5eT8FM) or follow the steps below to install it on your device.
 
 Adios! (O꒳O)
 
