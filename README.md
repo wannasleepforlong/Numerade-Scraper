@@ -1,11 +1,17 @@
 # Numerade-Scraper
 Extension to scrape answers from Numerade
 
+This extension allows you to view and download answers from locked Numerade solutions. Just set up this extension and click it after opening the answer site and it will open the unlocked media in a new tab.
+
+You can follow this video or follow the steps below to install it on your device.
+
+Adios! ![image](https://github.com/wannasleepforlong/Numerade-Scraper/assets/109717763/f5df57b7-1016-47be-b9a3-13d37e05f4be)
+
 ## Step 1:
 Download the zip file of the repository or click [here](https://github.com/wannasleepforlong/Numerade-Scraper/archive/refs/heads/main.zip)
 
 ## Step 2:
-Extract the archive to obtain a folder 'Numerade Scraper'.
+Extract the archive to obtain a folder 'Numerade Scraper'.ck i
 
 ## Step 3
 Open your browser, click on extension icon and go to manage extensions.
