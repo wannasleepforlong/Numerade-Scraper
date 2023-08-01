@@ -5,7 +5,7 @@ This extension allows you to view and download answers from locked Numerade solu
 
 You can follow this video or follow the steps below to install it on your device.
 
-Adios! ![image](https://github.com/wannasleepforlong/Numerade-Scraper/assets/109717763/f5df57b7-1016-47be-b9a3-13d37e05f4be)
+Adios! (O꒳O)
 
 ## Step 1:
 Download the zip file of the repository or click [here](https://github.com/wannasleepforlong/Numerade-Scraper/archive/refs/heads/main.zip)
