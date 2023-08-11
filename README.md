@@ -17,7 +17,7 @@ Extract the archive to obtain a folder 'Numerade Scraper'.
 Open your browser, click on extension icon and go to manage extensions.
 
 ## Step 4
-Turn on the decelopers mode at top-right and click on 'Load unpacked'.
+Turn on the developers mode at top-right and click on 'Load unpacked'.
 
 ## Step 5
 Finally go inside the Numerade Scraper folder and select the 'Numerade Scraper Extension' folder.
